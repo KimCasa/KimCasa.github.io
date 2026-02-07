@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kimberly Casares"
+title                    : "Kim Casa"
 title_separator          : "-"
 name                     : &name "Kim"
 description              : &description "Bioinformatics doctoral student at the University of Georgia"
@@ -23,12 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kimberly Casares"
+  name             : "Kim Casa"
   pronouns         : # example: "she/her"  
-  bio              : "Bioinformatics doctoral student at the University of Georgia"
-  employer         : "University of Georgia"
-  linkedin         : # https://www.linkedin.com/in/kimberly-casares-51b611282/
-  email            : "kim.casares@uga.edu" 
+  bio              : "Computational Biology & Scientific Computing"     
+  email            : "kimcasa650@gmail.com" 
 
   # Academic websites
 
