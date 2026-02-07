@@ -5,7 +5,7 @@ Name Name:
   uri         : "http://name.com"
   email       : "name@name.com"
   bio         : "This is the first name."
-  avatar      : "/images/kim-casa.jpg"
+  avatar      : "/assets/images/kim-casa.jpg"
   twitter     : "name"
   google_plus : "Name"
 
