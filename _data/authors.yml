@@ -4,7 +4,7 @@ kimcasa:
   name        : "Kim Casa"
   uri         : "http://name.com"
   email       : "name@name.com"
-  bio         : "This is the first name."
+  bio         : "Computational Biology and Scientific Computing"
   avatar      : "assets/images/kim-casa.jpg"
   twitter     : "name"
   google_plus : "Name"
