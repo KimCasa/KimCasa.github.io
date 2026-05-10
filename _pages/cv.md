@@ -10,56 +10,73 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **B.S. in Biology**, New Mexico State University — Dec 2024  
+  GPA: 3.3
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Associate of Science**, Arrowhead Park Early College High School — May 2020
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Research Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Postgraduate Researcher — University of Georgia
+*Aug 2024 – Jan 2026*
+
+- Developed an open-source Snakemake pipeline for large-scale analysis of *Salmonella enterica* genomic data from environmental and clinical sources
+- Performed genome assembly, quality control, antimicrobial resistance profiling, and population structure analysis
+- Integrated genomic and metadata analyses to investigate pathogen distribution across time and environmental sources
+- Utilized R and Python for statistical analysis, data visualization, and processing of large-scale genomic datasets
+
+## Undergraduate Researcher — New Mexico State University
+*Oct 2022 – 2024*
+
+- Conducted ecological research focused on plant ecology, invasive species dynamics, and ecosystem health in arid environments
+- Assisted with biological and environmental data collection and analysis
+- Prepared research summaries and presentations communicating environmental findings to research teams
+
+## USDA REEU Research Intern — University of Georgia
+*May 2023 – July 2023*
+
+- Conducted phylogenomic analysis of *Agave* species to investigate evolutionary relationships and genetic diversity
+- Analyzed genomic sequence data using custom computational pipelines
+- Contributed to federally funded USDA-aligned research related to agriculture and plant systems biology
+
+## NSF REU Research Intern — University of Texas at El Paso
+*June 2021 – Aug 2021*
+
+- Conducted soil and environmental sampling in arid ecosystems to study microbial and ecological community structure
+- Assisted with ecological data collection supporting studies of ecosystem resilience and biodiversity
+- Collaborated with faculty and student researchers to present applied environmental research findings
+
+# Technical Skills
+
+## Programming & Data Analysis
+- R (tidyverse, ggplot2)
+- Python
+- C++
+- Unix/Linux command line
+- Git & GitHub
+
+## Bioinformatics & Genomics
+- Comparative genomics
+- Phylogenomics
+- Antimicrobial resistance analysis
+- Workflow automation with Snakemake
+- Genomic data analysis
+
+## Laboratory Techniques
+- DNA/RNA extraction
+- PCR
+- Flow cytometry
+
+# Leadership & Awards
+
+- Programming and Algorithms Club — University of Georgia (2025–2026)
+- McNair Research Scholar — New Mexico State University (2023–2024)
+- HOSA — Vice President of Fundraising (2019)
+- GAPP Cultural Exchange Participant (2017)
+
+# Languages
+
+- English (Fluent)
+- Spanish (Fluent)
