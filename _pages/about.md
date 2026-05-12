@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+{% include hero.html %}
 
-
-Bio
+About Me
 ======
-Kim Casa is a bioinformatics researcher with expertise in bacterial genomics and computational biology. Her work focuses on the genomic analysis of pathogenic bacteria, including Salmonella and Neisseria gonorrhoeae, to study population structure, transmission patterns, and antimicrobial resistance. She develops reproducible bioinformatics pipelines and sequence analysis tools for large-scale genomic data. She holds a B.S. in Biology from New Mexico State University.
+I am a bioinformatics researcher interested in using genomic data to better understand infectious disease, antimicrobial resistance, and pathogen evolution.
 
+My work focuses on building reproducible computational workflows for bacterial genomics, including genome assembly, quality control, annotation, antimicrobial resistance detection, serotyping, and population-level analysis.
+
+My recent research has focused on *Salmonella enterica* in food production and public health contexts, where I developed a Snakemake-based workflow to analyze large-scale genomic datasets and identify patterns related to antimicrobial resistance and strain diversity.
+
+I am especially interested in computational biology, infectious disease genomics, epidemiology, and scientific computing.
