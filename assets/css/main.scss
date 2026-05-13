@@ -42,37 +42,81 @@
 ;
 
 /* =========================
-   HERO SECTION
+   CUSTOM HOMEPAGE HERO
 ========================= */
 
-.hero {
-  text-align: center;
-  padding: 5rem 1rem;
-  margin-bottom: 3rem;
+.custom-hero {
+  min-height: 460px;
+  background-image:
+    linear-gradient(rgba(5, 18, 45, 0.82), rgba(5, 18, 45, 0.82)),
+    url('/images/dna-background.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 4.5rem 3rem;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
 }
 
-.hero-content h1 {
+.custom-hero-content {
+  max-width: 760px;
+  margin-left: 2rem;
+}
+
+.custom-hero-tagline {
+  color: #13c7ce;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 0.95rem;
+  margin-bottom: 1.25rem;
+}
+
+.custom-hero h1 {
+  color: white;
   font-size: 4rem;
-  margin-bottom: 1rem;
+  line-height: 1.1;
+  margin-bottom: 1.25rem;
 }
 
-.hero-content p {
-  font-size: 1.5rem;
-  color: #666;
+.custom-hero-description {
+  color: #f1f5f9;
+  font-size: 1.35rem;
+  line-height: 1.6;
+  max-width: 720px;
   margin-bottom: 2rem;
 }
 
-.btn {
-  display: inline-block;
-  background-color: #2563eb;
-  color: white !important;
-  padding: 14px 24px;
-  border-radius: 10px;
-  text-decoration: none;
-  font-weight: bold;
-  transition: 0.2s ease;
+.custom-hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
-.btn:hover {
-  background-color: #1d4ed8;
+.custom-btn {
+  display: inline-block;
+  padding: 0.9rem 1.3rem;
+  border-radius: 6px;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.custom-btn.primary {
+  background: #0ea5a8;
+  color: white !important;
+}
+
+.custom-btn.primary:hover {
+  background: #0b8f92;
+}
+
+.custom-btn.outline {
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  color: white !important;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.custom-btn.outline:hover {
+  background: rgba(255, 255, 255, 0.16);
 }
