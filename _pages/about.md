@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Computational Biology and Genomics"
-author_profile: true
+title: 
+author_profile: false
 author: kimcasa
 redirect_from: 
   - /about/
