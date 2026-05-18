@@ -17,7 +17,7 @@ redirect_from:
   <div class="project-grid">
 
     <div class="project-card">
-      <img src="/images/projects/heatmap_Distribution_AMR_w_sero.png" alt="AMR heatmap">
+      <img src="/images/projects/heatmap_Distribution_AMR_w_serotypes.png" alt="AMR heatmap">
 
       <h3>AMR Profile Across Salmonella Serovars</h3>
 
@@ -29,7 +29,7 @@ redirect_from:
     </div>
 
     <div class="project-card">
-      <img src="/images/projects/Dublin_amr_trends.png" alt="AMR trends">
+      <img src="/images/projects/Dublin_amr_trends.Rplot.png" alt="AMR trends">
 
       <h3>AMR Trends Over Time</h3>
 
@@ -41,7 +41,8 @@ redirect_from:
     </div>
 
     <div class="project-card">
-      <img src="/images/projects/Temporal-Trends-Top5.png" alt="Temporal serovar trends">
+      <img src="/images/projects/Temporal Trends of Top 5 serovars.Rplot.png" />
+" alt="Temporal serovar trends">
 
       <h3>Serovar Trends Over Time</h3>
 
