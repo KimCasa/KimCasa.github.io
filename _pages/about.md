@@ -10,6 +10,51 @@ redirect_from:
 
 {% include hero.html %}
 
+<section class="featured-projects">
+  <h2>Featured Projects</h2>
+  <p>A selection of my recent work in pathogen genomics and computational biology.</p>
+
+  <div class="project-grid">
+
+    <div class="project-card">
+      <img src="/images/projects/heatmap_Distribution_AMR_w_sero.png" alt="AMR heatmap">
+
+      <h3>AMR Profile Across Salmonella Serovars</h3>
+
+      <p>
+        Heatmap visualization of antimicrobial resistance gene prevalence across Salmonella enterica isolates.
+      </p>
+
+      <a href="/portfolio/">View Project →</a>
+    </div>
+
+    <div class="project-card">
+      <img src="/images/projects/Dublin_amr_trends.png" alt="AMR trends">
+
+      <h3>AMR Trends Over Time</h3>
+
+      <p>
+        Temporal analysis of antimicrobial resistance prevalence across major Salmonella serovars.
+      </p>
+
+      <a href="/portfolio/">View Project →</a>
+    </div>
+
+    <div class="project-card">
+      <img src="/images/projects/Temporal-Trends-Top5.png" alt="Temporal serovar trends">
+
+      <h3>Serovar Trends Over Time</h3>
+
+      <p>
+        Population-level genomic analysis of dominant Salmonella serovars across time.
+      </p>
+
+      <a href="/portfolio/">View Project →</a>
+    </div>
+
+  </div>
+</section>
+
 About Me
 ======
 I am a bioinformatics researcher interested in using genomic data to better understand infectious disease, antimicrobial resistance, and pathogen evolution.
