@@ -12,9 +12,15 @@ redirect_from:
 
 <section class="featured-projects">
   <h2>Featured Projects</h2>
-  <p>A selection of my recent work in pathogen genomics and computational biology.</p>
+
+  <p>
+    A selection of my recent work in pathogen genomics and computational biology.
+  </p>
 
   <div class="project-grid">
+
+    <!-- CARD 1 -->
+    <div class="project-card">
 
       <h3>AMR Profile Across Salmonella Serovars</h3>
 
@@ -22,14 +28,14 @@ redirect_from:
         Heatmap visualization of antimicrobial resistance gene prevalence across Salmonella enterica isolates.
       </p>
 
-    <div class="project-card">
       <img src="/images/projects/heatmap_Distribution_AMR_w_serotypes.png" alt="AMR heatmap">
 
       <a href="/portfolio/">View Project →</a>
+
     </div>
 
+    <!-- CARD 2 -->
     <div class="project-card">
-      <img src="/images/projects/Dublin_amr_trends.Rplot.png" alt="AMR trends">
 
       <h3>AMR Trends Over Time</h3>
 
@@ -37,11 +43,14 @@ redirect_from:
         Temporal analysis of antimicrobial resistance prevalence across major Salmonella serovars.
       </p>
 
-    <div class="project-card">
-      <img src="/images/projects/Temporal Trends of Top 5 serovars.Rplot.png">
-      
+      <img src="/images/projects/Dublin_amr_trends.Rplot.png" alt="AMR trends">
+
       <a href="/portfolio/">View Project →</a>
+
     </div>
+
+    <!-- CARD 3 -->
+    <div class="project-card">
 
       <h3>Serovar Trends Over Time</h3>
 
@@ -49,10 +58,10 @@ redirect_from:
         Population-level genomic analysis of dominant Salmonella serovars across time.
       </p>
 
-    <div class="project-card">
-      <img src="/images/projects/Temporal Trends of Top 5 serovars.Rplot.png">
+      <img src="/images/projects/Temporal Trends of Top 5 serovars.Rplot.png" alt="Serovar trends">
 
       <a href="/portfolio/">View Project →</a>
+
     </div>
 
   </div>
