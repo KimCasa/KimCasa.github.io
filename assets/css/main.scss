@@ -120,3 +120,18 @@
 .custom-btn.outline:hover {
   background: rgba(255, 255, 255, 0.16);
 }
+
+.nav-avatar{
+width:34px;
+height:34px;
+border-radius:50%;
+object-fit:cover;
+margin-right:10px;
+}
+
+.site-title-custom{
+display:flex;
+align-items:center;
+gap:10px;
+text-decoration:none;
+}
