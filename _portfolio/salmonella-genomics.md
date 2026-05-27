@@ -1,7 +1,7 @@
 ---
 title: "Snakemake Pipeline for Salmonella Genomics Analysis"
 permalink: /portfolio/salmonella-genomics/
-author_profile: true
+author_profile: false
 excerpt: "Reproducible workflow for Salmonella genome assembly, QC, serotyping, and AMR profiling."
 collection: portfolio
 ---
