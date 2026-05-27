@@ -11,14 +11,14 @@ main:
   #- title: "Featured Projects"
   #  url: /projects/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Github"
     url: https://github.com/KimCasa?tab=repositories
 
  # - title: "Blog"
  #   url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
 
   - title: "Learn Bioinformatics"
     url: /tutorials/
@@ -26,5 +26,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
 
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
