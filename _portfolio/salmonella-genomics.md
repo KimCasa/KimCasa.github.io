@@ -27,9 +27,9 @@ Collaborative USDA-ARS and University of Georgia research project investigating 
 
 ## Code and Data
 
-[Snakemake pipeline](https://github.com/KimCasa/salmonella-r-downstream-analysis) 
+[Snakemake pipeline](https://github.com/KimCasa/snakemake-salmonella-assembly)
 
-[R analysis scripts](https://github.com/KimCasa/snakemake-salmonella-assembly)
+[R analysis scripts](https://github.com/KimCasa/r-salmonella-downstream-analysis)
 
 ## Featured Visualizations
 
