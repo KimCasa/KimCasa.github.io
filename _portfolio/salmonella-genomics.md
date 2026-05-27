@@ -13,23 +13,22 @@ Developed a reproducible computational workflow for large-scale genomic analysis
 - Managed Conda environments and SLURM jobs
 - Performed downstream R analysis
 - Generated AMR heatmaps and temporal visualizations
-- Contributed to collaborative USDA-ARS manuscript preparation
+- Contributed to collaborative USDA-ARS report preparation
 
 ## Tools Used
 
 `Snakemake` `R` `RStudio` `SLURM` `SPAdes` `SeqSero2` `AMRFinderPlus` `QUAST` `MLST` `Conda` `Git`
 
-## Project Report / Manuscript Draft
+## Project Report
 
 Collaborative USDA-ARS and University of Georgia research project investigating genomic, epidemiological, and geospatial predictors of *Salmonella* outbreaks.
 
-[Download Report](#)
+[Download Report](/files/salmonella_project_summary.pdf)
 
 ## Code and Data
 
-[R analysis scripts](#)  
-[Snakemake pipeline](#)  
-[GitHub repository](#)
+[Snakemake pipeline](https://github.com/KimCasa/salmonella-r-downstream-analysis) 
+[R analysis scripts](https://github.com/KimCasa/snakemake-salmonella-assembly)
 
 ## Featured Visualizations
 
