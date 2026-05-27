@@ -6,6 +6,42 @@ author_profile: true
 author: kimcasa
 ---
 
+# Free Learning Resources
+
+## Beginner Programming + Bioinformatics
+
+### [Rosalind](https://rosalind.info/)
+Practice-based bioinformatics and programming problems for learning computational biology concepts.
+
+### [The Carpentries](https://carpentries.org/)
+Beginner-friendly lessons for Unix, Git, Python, R, and data science.
+
+### [Galaxy Training Network](https://training.galaxyproject.org/)
+Free hands-on tutorials for genomics, transcriptomics, metagenomics, and bioinformatics workflows.
+
+---
+
+# R, Python, and Data Science
+
+### [R for Data Science](https://r4ds.hadley.nz/)
+Free online textbook for learning R programming and data analysis.
+
+### [Python for Everybody](https://www.py4e.com/)
+Excellent beginner-friendly Python course.
+
+### [Bioconductor](https://www.bioconductor.org/)
+Open-source tools for genomic data analysis in R.
+
+---
+
+# Linux, Git, and Reproducible Research
+
+### [Software Carpentry — Unix Shell](https://swcarpentry.github.io/shell-novice/)
+Learn Linux command line basics for scientific computing.
+
+### [GitHub Skills](https://skills.github.com/)
+Interactive tutorials for learning Git and GitHub.
+
 # Beginner Bioinformatics Tutoring & Coaching
 
 Learning bioinformatics can feel overwhelming, especially for students transitioning from biology into programming and computational analysis. I provide beginner-friendly tutoring and guidance for students and early researchers learning bioinformatics tools, workflows, and computational research skills.
