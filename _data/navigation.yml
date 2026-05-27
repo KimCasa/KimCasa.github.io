@@ -12,7 +12,7 @@ main:
   #  url: /projects/
 
   - title: "Github"
-    url: /portfolio/
+    url: https://github.com/KimCasa?tab=repositories
 
  # - title: "Blog"
  #   url: /year-archive/
