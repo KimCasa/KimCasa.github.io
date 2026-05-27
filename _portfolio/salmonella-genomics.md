@@ -39,10 +39,3 @@ Collaborative USDA-ARS and University of Georgia research project investigating 
 
 ![AMR heatmap](/images/projects/heatmap_Distribution_AMR_w_serotypes.png)
 
-### Temporal Serovar Trends
-
-![Temporal serovar trends](/images/projects/typhimurium_newport_trends.png)
-
-### QC Metrics
-
-![QC metrics](/images/projects/qc_scatter.png)
