@@ -60,7 +60,7 @@ redirect_from:
 
       <img src="/images/projects/Temporal Trends of Top 5 serovars.Rplot.png" alt="Serovar trends">
 
-      <a href="portfolio/salmonella-genomics/">View Project →</a>
+      <a href="/portfolio/salmonella-genomics/">View Project →</a>
 
     </div>
 
