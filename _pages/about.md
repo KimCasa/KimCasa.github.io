@@ -30,7 +30,7 @@ redirect_from:
 
       <img src="/images/projects/heatmap_Distribution_AMR_w_serotypes.png" alt="AMR heatmap">
 
-      <a href="/portfolio/">View Project →</a>
+      <a href="/portfolio/snakemake-salmonella/">View Project →</a>
 
     </div>
 
@@ -45,7 +45,7 @@ redirect_from:
 
       <img src="/images/projects/Dublin_amr_trends.Rplot.png" alt="AMR trends">
 
-      <a href="/portfolio/">View Project →</a>
+      <a href="/portfolio/snakemake-salmonella/">View Project →</a>
 
     </div>
 
@@ -60,7 +60,7 @@ redirect_from:
 
       <img src="/images/projects/Temporal Trends of Top 5 serovars.Rplot.png" alt="Serovar trends">
 
-      <a href="/portfolio/">View Project →</a>
+      <a href="/portfolio/snakemake-salmonella/">View Project →</a>
 
     </div>
 
