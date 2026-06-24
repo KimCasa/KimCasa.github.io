@@ -17,14 +17,14 @@ main:
   - title: "Github"
     url: https://github.com/KimCasa?tab=repositories
 
- # - title: "Blog"
- #   url: /year-archive/
+  - title: "Blog"
+     url: /year-archive/
 
   - title: "Learn Bioinformatics"
     url: /tutoring/
 
-  # - title: "CV"
-  #   url: /cv-json/
+   - title: "Blog"
+     url: /year-archive/
 
  # - title: "Guide"
  #   url: /markdown/
