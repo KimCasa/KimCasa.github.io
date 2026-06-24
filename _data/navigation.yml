@@ -8,8 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  #- title: "Featured Projects"
-  #  url: /projects/
 
   - title: "CV"
     url: /cv/
@@ -18,7 +16,7 @@ main:
     url: https://github.com/KimCasa?tab=repositories
 
   - title: "Blog"
-     url: /year-archive/
+    url: /year-archive/
 
   - title: "Learn Bioinformatics"
     url: /tutoring/
