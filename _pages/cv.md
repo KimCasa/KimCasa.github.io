@@ -22,31 +22,31 @@ redirect_from:
 ## Postgraduate Researcher — University of Georgia
 *Aug 2024 – Jan 2026*
 
-- Developed an open-source Snakemake pipeline for large-scale analysis of *Salmonella enterica* genomic data from environmental and clinical sources
-- Performed genome assembly, quality control, antimicrobial resistance profiling, and population structure analysis
-- Integrated genomic and metadata analyses to investigate pathogen distribution across time and environmental sources
-- Utilized R and Python for statistical analysis, data visualization, and processing of large-scale genomic datasets
+- Developed an open-source reproducible Snakemake pipeline that automates genome assembly, quality control, annotation, and comparative genomic analyses for over 2,500 *Salmonella enterica* isolates
+- Applied bioinformatics and comparative genomics approach to investigate genetic diversity, population structure, and evolutionary patterns across environmental and clinical populations
+- Integrated genomic data with metadata to investigate trends in pathogen distribution and anti-microbial resistance across time and environment
+- Utilized Linux, high performance computing (HPC), R, and Python to perform large scale genomic analyses, statistical modeling, and data visualization
 
 ## Undergraduate Researcher — New Mexico State University
-*Oct 2022 – 2024*
+*Oct 2022 – Dec 2024*
 
-- Conducted ecological research focused on plant ecology, invasive species dynamics, and ecosystem health in arid environments
-- Assisted with biological and environmental data collection and analysis
-- Prepared research summaries and presentations communicating environmental findings to research teams
+- Conducted plant genomics and phylogenetic research investigating evolutionary relationships within Agave species using comparative genomic and bioinformatic approaches
+- Applied computational biology tools for sequence analysis, multiple sequence alignment, phylogenetic inference, and genomic data interpretation
+- Utilized flow cytometry to estimate and characterize genome size variation in Leucaena leucocephala, a leguminous tree species of ecological and agricultural importance
 
 ## USDA REEU Research Intern — University of Georgia
 *May 2023 – July 2023*
 
-- Conducted phylogenomic analysis of *Agave* species to investigate evolutionary relationships and genetic diversity
-- Analyzed genomic sequence data using custom computational pipelines
-- Contributed to federally funded USDA-aligned research related to agriculture and plant systems biology
+- Conducted phylogenomic analysis of Agave species to investigate evolutionary relationships and clarify taxonomic classification within the genus
+- Assisted with greenhouse management of hermaphroditic asparagus breeding populations used in plant genetics and reproductive biology research
+- Collected floral phenotypic measurements, including stigma length and reproductive characteristics, to investigate variation among plant genomes
 
 ## NSF REU Research Intern — University of Texas at El Paso
 *June 2021 – Aug 2021*
 
-- Conducted soil and environmental sampling in arid ecosystems to study microbial and ecological community structure
-- Assisted with ecological data collection supporting studies of ecosystem resilience and biodiversity
-- Collaborated with faculty and student researchers to present applied environmental research findings
+- Investigated establishment and growth strategies of native Chihuahuan Desert grasses under arid environmental conditions through greenhouse experiments
+- Conducted field-based soil sampling and environmental sampling in arid ecosystems to assess microbial and ecological community structure
+- Performed DNA extractions from soil samples to characterize microbial communities associated with desert plant root systems
 
 # Technical Skills
 
