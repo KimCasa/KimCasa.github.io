@@ -25,6 +25,7 @@ author:
   # Biographic information
   name             : "Kim Casa"
   pronouns         :
+  avatar           : "/images/profile.jpg"
   bio              : "Computational Biology & Scientific Computing"
   email            : "kimcasa650@gmail.com"
 
@@ -33,10 +34,9 @@ author:
 
   # Repositories and software development
   github           :
-  #stackoverflow    :
+  
 
   # Social media
-  #bluesky          :
   linkedin         : "kimberly-casares"
   
 # Publication Category - The following the list of publication categories and their headings
