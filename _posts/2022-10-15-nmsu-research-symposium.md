@@ -1,6 +1,6 @@
 ---
 title: "Presenting My Research at the NMSU Undergraduate Research Symposium"
-date: 2026-06-26
+date: 2022-10-15
 categories:
   - Research
 tags:
