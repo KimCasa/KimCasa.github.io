@@ -1,6 +1,6 @@
 ---
 title: "Presenting My Research at the UGA REU Symposium"
-date: 2026-06-25
+date: 2023-05-25
 ---
 
 # Presenting My Research at the UGA REU Symposium
