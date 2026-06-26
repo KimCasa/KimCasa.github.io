@@ -20,27 +20,25 @@ repository               : "KimCasa/KimCasa.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+
 author:
   # Biographic information
-  
   name             : "Kim Casa"
-  pronouns         : # example: "she/her"  
-  bio              : "Computational Biology & Scientific Computing"     
-  email            : "kimcasa650@gmail.com" 
+  pronouns         :
+  bio              : "Computational Biology & Scientific Computing"
+  email            : "kimcasa650@gmail.com"
 
   # Academic websites
-
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-
+  #googlescholar    :
 
   # Repositories and software development
-  github           : "https://github.com/KimberlyCasares" 
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           :
+  #stackoverflow    :
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  linkedin         : # Username
-
+  #bluesky          :
+  linkedin         : "kimberly-casares"
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
