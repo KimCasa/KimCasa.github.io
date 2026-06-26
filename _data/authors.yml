@@ -3,10 +3,9 @@
 kimcasa:
   name        : "Kim Casa"
   uri         : ""
-  email       : ""
+  email       : "kimcasa650@gmail.com"
   bio         : "Computational Biology and Scientific Computing"
-  avatar      : "profile.jpg"
-  twitter     : ""
-  google_plus : ""
+  avatar      : "/images/profile.jpg"
+  
 
 
